@@ -1,7 +1,7 @@
 ### Hello, geeks! 👋🏻
 
 - 💻 I’m currently working on @Bsale-IO
-- 📫 Reach me at [@ericksk_](https://twitter.com/ericksk_)
+- 📫 Reach me at [@ericksvdrah_](https://twitter.com/ericksvdrah)
 - 🔍 I’m looking to collaborate on Open Souce projects.
 <!--
 **erick-sk/erick-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
